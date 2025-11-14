@@ -38,8 +38,8 @@ DP-Agrispray/
 │   │       └── requirements.txt  # Localization script dependencies
 │
 ├── Scripts/                      # Utility python scripts
-├── Data/                         # Collected test datasets
-├── Docs/                         # Documentation & diagrams
+├── Dataset/
+├    ├──  yellow_leafs-pr0v9      # RoboFlow Dataset ID
 └── README.md                     # Project documentation
 ```
 
