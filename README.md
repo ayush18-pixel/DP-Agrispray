@@ -1,6 +1,7 @@
 
 
 # 🌾 **DP-Agrispray – Vision-Based Precision Spraying Hexacopter**
+![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-brightgreen.svg)
 
 **IIT Mandi | Design Practicum – Group 4**
 
